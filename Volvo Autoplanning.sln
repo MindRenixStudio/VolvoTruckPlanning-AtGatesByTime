@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Volvo Autoplanning", "Volvo Autoplanning\Volvo Autoplanning.csproj", "{EE38E7D5-1817-4D9E-81D7-5F35FC8FDDE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE38E7D5-1817-4D9E-81D7-5F35FC8FDDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE38E7D5-1817-4D9E-81D7-5F35FC8FDDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE38E7D5-1817-4D9E-81D7-5F35FC8FDDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE38E7D5-1817-4D9E-81D7-5F35FC8FDDE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {454AAA52-0EF2-4189-80FB-B3A0555F57EC}
+	EndGlobalSection
+EndGlobal
